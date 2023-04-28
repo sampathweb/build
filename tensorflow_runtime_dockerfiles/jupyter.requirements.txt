@@ -1,3 +1,4 @@
+ipython<8.13  # Remove when Python 3.8 is deprecated
 jupyter
 matplotlib
 jupyter_http_over_ws
